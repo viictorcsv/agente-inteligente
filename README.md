@@ -66,6 +66,6 @@ Após iniciar o script, você pode interagir com o agente diretamente no termina
 
 ## Autor
 
--   **[PittViic](https://github.com/PittViic)**
+-   **[viictorcsv](https://github.com/viictorcsv)**
 
 ---
