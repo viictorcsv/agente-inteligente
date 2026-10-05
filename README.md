@@ -4,7 +4,7 @@ Este projeto implementa um agente reativo simples em Python, desenvolvido como u
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 -   **Agente Reativo Baseado em Regras:** O agente toma decisões simples e diretas com base na percepção atual do ambiente (ex: se o ambiente está 'sujo', a ação é 'aspirar').
 -   **Memória Interna:** O agente é capaz de:
@@ -17,13 +17,13 @@ Este projeto implementa um agente reativo simples em Python, desenvolvido como u
 
 ---
 
-## 🛠️ Pré-requisitos
+## Pré-requisitos
 
 Para executar este projeto, você precisará ter o **Python 3** instalado em sua máquina. Nenhuma biblioteca externa é necessária.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 Siga os passos abaixo para executar o agente em seu ambiente local:
 
@@ -44,7 +44,7 @@ Siga os passos abaixo para executar o agente em seu ambiente local:
 
 ---
 
-## 🕹️ Como Usar
+## Como Usar
 
 Após iniciar o script, você pode interagir com o agente diretamente no terminal:
 
@@ -64,7 +64,7 @@ Após iniciar o script, você pode interagir com o agente diretamente no termina
 
 ---
 
-## ✍️ Autor
+## Autor
 
 -   **[PittViic](https://github.com/PittViic)**
 
